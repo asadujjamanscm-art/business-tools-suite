@@ -1,8 +1,3 @@
-# Business Tools Suite PWA
+# Business Tools Suite
 
-Upload is configured for GitHub Pages. The app includes five standalone tools embedded in index.html.
-
-## Install on Android
-Open the HTTPS GitHub Pages URL in Chrome, open the menu, and choose **Install app** or **Add to Home screen**.
-
-The first visit must be online. The service worker caches the app shell for later offline use.
+GitHub Pages PWA shell. Open the Pages URL in Android Chrome and choose **Install app** from the menu.
