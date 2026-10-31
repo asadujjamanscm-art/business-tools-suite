@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Business Tools Suite",
   "short_name": "Business Tools",
-  "description": "Five business tools in one installable workspace.",
+  "description": "Six business tools in one installable workspace.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
